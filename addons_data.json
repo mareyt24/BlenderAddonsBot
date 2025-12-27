@@ -1,0 +1,18 @@
+{
+  "обучающие": [
+    {
+      "name": "Game Tools Pro",
+      "description": "Инструменты для создания игр",
+      "github": "https://github.com/example/game-tools",
+      "youtube": "https://www.youtube.com/watch?v=example"
+    }
+  ],
+  "визуализация": [
+    {
+      "name": "Render Optimizer",
+      "description": "Оптимизация рендеринга",
+      "github": "https://github.com/example/render-opt",
+      "youtube": "https://www.youtube.com/watch?v=example3"
+    }
+  ]
+}
